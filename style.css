@@ -361,6 +361,28 @@ div.articleRightInner {
 	text-align: center;
 	overflow: hidden;
 }
+div.articleLeft {
+	border: 1px solid #c8ccd1;
+	padding: 3px;
+	float: left;
+	background-color: #f8f9fa;
+	font-size: 94%;
+	text-align: center;
+	overflow: hidden;
+	line-height: 1.4em;
+	padding: 3px;
+	font-size: 94%;
+	margin: 0 15px 5px 0;
+	text-align: left;
+}
+div.articleLeftInner {
+	border: 1px solid #c8ccd1;
+	padding: 3px;
+	background-color: #f8f9fa;
+	font-size: 94%;
+	text-align: center;
+	overflow: hidden;
+}
 .logo {
 	margin-bottom: 20px;
 }
